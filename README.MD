@@ -1,6 +1,6 @@
-# 📝 NotesAPI - API para Gerenciamento de Anotações  
+# 📝  RocketNotes- API para Gerenciamento de Anotações  
 
-NotesAPI é uma API desenvolvida com **Node.js e Express** para criar e gerenciar anotações de forma eficiente. Suporta a adição de **tags, links e descrições** para organizar as anotações.  
+ RocketNotes é uma API desenvolvida com **Node.js e Express** para criar e gerenciar anotações de forma eficiente. Suporta a adição de **tags, links e descrições** para organizar as anotações.  
 
 ## 📌 Funcionalidades  
 
